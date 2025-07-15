@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Environment
+env/
+venv/
+ragenv/
+
+# Logs and dumps
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# FAISS cache
+faiss_cache/
+
+# dotenv
+.env
