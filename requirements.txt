@@ -4,3 +4,5 @@ sentence-transformers
 faiss-cpu
 wikipedia
 python-dotenv
+langchain-community
+langchain-huggingface
